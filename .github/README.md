@@ -1,23 +1,23 @@
-<h1 align="center"><b>❤️ ALEXA MUSIC 2.0 ❤️</b></h1>
+<h1 align="center"><b>❤️ Poison MUSIC 2.0 ❤️</b></h1>
 
-<h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Pyrogram...</h4>
+<h4 align="center">Krishna A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Pyrogram...</h4>
 
-<p align="center"><a href="https://t.me/Jankari_Ki_Duniya"><img src="https://telegra.ph/file/f6064bc90cc76e59015b2.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/official_radhe_krishna_1"><img src="https://telegra.ph/file/9598e73ad72479d02bd77.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/TheTeamAlexa/AlexaMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://img.shields.io/github/repo-size/TheTeamAlexa/AlexaMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamAlexa/AlexaMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/TheTeamAlexa/AlexaMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamAlexa/AlexaMusic/issues"> <img src="https://img.shields.io/github/issues/TheTeamAlexa/AlexaMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/TheTeamAlexa/AlexaMusic/network/members"> <img src="https://img.shields.io/github/forks/TheTeamAlexa/AlexaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/https://t.me/official_radhe_krishna_1/poisonMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/Radheranij/Poison_x_musi"> <img src="https://img.shields.io/github/repo-size/official_radhe_krishna_1/PoisonMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/official_radhe_krishna_1/PoasionMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/official_radhe_krishna_1/PoasionMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/official_radhe_krishna_1/PoasionMusic/issues"> <img src="https://img.shields.io/github/issues/official_radhe_krishna_1/PoasionMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/official_radhe_krishna_1/PoasionMusic/network/members"> <img src="https://img.shields.io/github/forks/TheTeamAlexa/AlexaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Pyrogram"> <img src="https://img.shields.io/pypi/v/Pyrogram?color=yellow&label=Pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-> ⭐️ Thanks to everyone for using Alexa,  🤭 That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using Krishna,  🤭 That is the greatest pleasure we have !
 
 ### Asad– History
 
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<a href="https://t.me/official_radhe_krishna_1"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 <h1 align="center"><b>😂 ᴠɪᴇᴡ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs 😂</b></h1>
 <br>
@@ -103,7 +103,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
-<p><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p><a href="https://my.scalingo.com/deploy?template=https://github.com/official_radhe_krishna_1/PoisonMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 <summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
 <br>
@@ -125,10 +125,10 @@ Through this repository, we hope to share our passion for music and innovation w
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTheTeamAlexa%2FAlexaMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fofficial_radhe_krishna_1%2FPosionMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴏʀ  ᴀᴄᴄᴏᴜɴᴛ sᴜsᴘᴇɴsɪᴏɴ ɪssᴜᴇ ᴛᴏ ʙʏᴘᴀss ᴀɴʏ ʀᴇsᴛʀɪᴄᴛɪᴏɴ ᴏɴ ʜᴇʀᴏᴋᴜ ᴏʀ ʀᴀɪʟᴡᴇʏ</h4>    
-<a href="https://github.com/TheTeamAlexa/AlexaMusic-Bypass"><img src="https://img.shields.io/badge/Alexa-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a>
+<a href="https://github.com/official_radhe_krishna_1/PoasionMusic-Bypass"><img src="https://img.shields.io/badge/Poasion-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a>
 
 <h1 align="center"><b>❤️ ᴏᴡɴᴇʀ ᴀɴᴅ ᴄʀᴇᴅɪᴛ ❤️</b></h1>
 <details>
@@ -137,21 +137,21 @@ Through this repository, we hope to share our passion for music and innovation w
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
+- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/official_radhe_krishna_1)
 - [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
-- [ᴍᴀssoᴍ](https://t.me/Kattai_massom)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)
+- [ʜᴀʀsʜɪᴛ](https://t.me/Majha_Radhe)
+- [Abhimanyu](https://t.me/official_radhe_krishna_1)
+- [ᴍᴀssoᴍ](https://t.me/chocolat_boy21)
+- [ʏᴜᴋᴋɪ](https://github.com/Radheranij/Poison_x_musi)
+- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Radheranij/Poison_x_musi)
 </details>
 
 <details>
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/LEGEND_MUKUND)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
+- [ᴍᴜᴋᴜ](https://t.me/official_radhe_krishna_1)
+- [ᴅᴇᴠɪʟ](https://t.me/Majha_Radhe)
 
 </details>
 
@@ -160,10 +160,10 @@ Through this repository, we hope to share our passion for music and innovation w
 <br>
 
 # ❤️ Support<
-<a href="https://t.me/Alexa_BotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Give_Me_Heart"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Alexa_Help"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Poasion_BotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/official_radhe_krishna_1"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/official_radhe_krishna_1"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/official_radhe_krishna_1"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
