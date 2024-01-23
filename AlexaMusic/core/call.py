@@ -1,21 +1,21 @@
-# Copyright (C) 2024 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
-# Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
+# Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/official_radhe_krishna_1 >
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Krishna © Yukki.
 
 """"
-TheTeamAlexa is a project of Telegram bots with variety of purposes.
-Copyright (c) 2024 -present Team=Alexa <https://github.com/TheTeamAlexa>
+official_radhe_krishna_1 is a project of Telegram bots with variety of purposes.
+Copyright (c) 2024 -present Team=Krishnq <https://github.com/official_radhe_krishna_1>
 
 This program is free software: you can redistribute it and can modify
 as you want or you can collabe if you have new ideas.
 """
 
 
-# Copyright (C) 2024 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
-# Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
+# Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/official_radhe_krishna_1 >
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Alexa © Yukki.
 
 """"
 TheTeamAlexa is a project of Telegram bots with variety of purposes.
-Copyright (c) 2024 -present Team=Alexa <https://github.com/TheTeamAlexa>
+Copyright (c) 2024 -present Team=krishna <https://github.com/official_radhe_krishna_1 >
 
 This program is free software: you can redistribute it and can modify
 as you want or you can collabe if you have new ideas.
@@ -48,9 +48,9 @@ from pytgcalls.types import (
 from pytgcalls.types.stream import StreamAudioEnded
 
 import config
-from AlexaMusic import LOGGER, YouTube, app
-from AlexaMusic.misc import db
-from AlexaMusic.utils.database import (
+from PosionMusic import LOGGER, YouTube, app
+from PoisonMusic.misc import db
+from PoisonMusic.utils.database import (
     add_active_chat,
     add_active_video_chat,
     get_assistant,
@@ -65,11 +65,11 @@ from AlexaMusic.utils.database import (
     remove_active_video_chat,
     set_loop,
 )
-from AlexaMusic.utils.exceptions import AssistantErr
-from AlexaMusic.utils.inline.play import stream_markup, telegram_markup
-from AlexaMusic.utils.stream.autoclear import auto_clean
-from AlexaMusic.utils.thumbnails import gen_thumb
-from AlexaMusic.utils.theme import check_theme
+from PoisonMusic.utils.exceptions import AssistantErr
+from PoisonMusic.utils.inline.play import stream_markup, telegram_markup
+from PoisonMusic.utils.stream.autoclear import auto_clean
+from PoasiomMusic.utils.thumbnails import gen_thumb
+from PoasionMusic.utils.theme import check_theme
 from strings import get_string
 
 autoend = {}
@@ -86,7 +86,7 @@ async def _clear_(chat_id):
 class Call(PyTgCalls):
     def __init__(self):
         self.userbot1 = Client(
-            name="Alexa1",
+            name="Poasion1",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING1),
@@ -96,7 +96,7 @@ class Call(PyTgCalls):
             cache_duration=100,
         )
         self.userbot2 = Client(
-            name="Alexa2",
+            name="Poasion2",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING2),
@@ -106,7 +106,7 @@ class Call(PyTgCalls):
             cache_duration=100,
         )
         self.userbot3 = Client(
-            name="Alexa3",
+            name="Poadion3",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING3),
@@ -116,7 +116,7 @@ class Call(PyTgCalls):
             cache_duration=100,
         )
         self.userbot4 = Client(
-            name="Alexa4",
+            name="Poasion4",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING4),
@@ -126,7 +126,7 @@ class Call(PyTgCalls):
             cache_duration=100,
         )
         self.userbot5 = Client(
-            name="Alexa5",
+            name="Poasion5",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING5),
@@ -689,4 +689,4 @@ class Call(PyTgCalls):
                 autoend[chat_id] = {}
 
 
-Alexa = Call()
+Krishna = Call()
