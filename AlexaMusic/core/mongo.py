@@ -1,9 +1,9 @@
-# Copyright (C) 2024 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
-# Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
+# Copyright (C) 2024 by krishna_Help @ Github, < https://github.com/official_radhe_krishna_1 >
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Poison © Yukki.
 
 """"
-TheTeamAlexa is a project of Telegram bots with variety of purposes.
-Copyright (c) 2024 -present Team=Alexa <https://github.com/TheTeamAlexa>
+official_radhe_krishna_1 is a project of Telegram bots with variety of purposes.
+Copyright (c) 2024 -present Team=Krishna <https://github.com/official_radhe_krishna_1>
 
 This program is free software: you can redistribute it and can modify
 as you want or you can collabe if you have new ideas.
@@ -23,7 +23,7 @@ TEMP_MONGODB = ""
 if config.MONGO_DB_URI is None:
     LOGGER(__name__).warning("No MONGO DB URL found.")
     temp_client = Client(
-        "Alexa",
+        "Krishna",
         bot_token=config.BOT_TOKEN,
         api_id=config.API_ID,
         api_hash=config.API_HASH,
@@ -39,10 +39,10 @@ if config.MONGO_DB_URI is None:
 else:
     _mongo_async_ = _mongo_client_(config.MONGO_DB_URI)
     _mongo_sync_ = MongoClient(config.MONGO_DB_URI)
-    mongodb = _mongo_async_.Alexa
-    pymongodb = _mongo_sync_.Alexa
+    mongodb = _mongo_async_.Krishna
+    pymongodb = _mongo_sync_.Krishna
 
-## Database For Broadcast Subscription By Team Alexa
+## Database For Broadcast Subscription By Krishns
 
 MONGODB_CLI = MongoClient(config.MONGO_DB_URI)
 db = MONGODB_CLI["subscriptions"]
