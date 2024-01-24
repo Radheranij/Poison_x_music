@@ -2,7 +2,7 @@
 
 <h4 align="center">Krishna A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Pyrogram...</h4>
 
-<p align="center"><a href="https://t.me/official_radhe_krishna_1"><img src="https://telegra.ph/file/9598e73ad72479d02bd77.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/official_radhe_krishna_1"><img src="https://telegra.ph/file/ad473b941f5499aed4b32.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/https://t.me/official_radhe_krishna_1/poisonMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
