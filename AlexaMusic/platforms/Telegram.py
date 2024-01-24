@@ -3,7 +3,7 @@
 
 """"
 official_radhe_krishna_1 is a project of Telegram bots with variety of purposes.
-Copyright (c) 2024 -present Team=Alexa <https://github.com/Radheranij/Poison_x_music>
+Copyright (c) 2024 -present Team=Krishna <https://github.com/Radheranij/Poison_x_music>
 
 This program is free software: you can redistribute it and can modify
 as you want or you can collabe if you have new ideas.
