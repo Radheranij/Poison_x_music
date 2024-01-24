@@ -1,9 +1,9 @@
 # Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/official_radhe_krishna_1 >
-# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Krishna © Yukki.
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Poasion © Yukki.
 
 """"
-official_radhe_krishna_1 is a project of Telegram bots with variety of purposes.
-Copyright (c) 2024 -present Team=Krishnq <https://github.com/official_radhe_krishna_1>
+krishna is a project of Telegram bots with variety of purposes.
+Copyright (c) 2024 -present Team=Krishna <https://github.com/official_radhe_krishna_1>
 
 This program is free software: you can redistribute it and can modify
 as you want or you can collabe if you have new ideas.
@@ -11,10 +11,8 @@ as you want or you can collabe if you have new ideas.
 
 
 # Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/official_radhe_krishna_1 >
-# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Alexa © Yukki.
-
-""""
-TheTeamAlexa is a project of Telegram bots with variety of purposes.
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Poison © Yukki.
+krishna is a project of Telegram bots with variety of purposes.
 Copyright (c) 2024 -present Team=krishna <https://github.com/official_radhe_krishna_1 >
 
 This program is free software: you can redistribute it and can modify
