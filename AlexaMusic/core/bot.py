@@ -1,5 +1,5 @@
 # Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/official_radhe_krishna_1>
-# Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Poison © Yukki.
 
 """"
 official_radhe_krishna_1 is a project of Telegram bots with variety of purposes.
