@@ -2,14 +2,14 @@
 
 <h4 align="center">Krishna A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Pyrogram...</h4>
 
-<p align="center"><a href="https://t.me/official_radhe_krishna_1"><img src="https://telegra.ph/file/ad473b941f5499aed4b32.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Majha_Radhe"><img src="https://telegra.ph/file/ad473b941f5499aed4b32.jpg" width="400"></a></p>
 
 <p align="center">
-    <a href="https://app.codacy.com/manual/https://t.me/official_radhe_krishna_1/poisonMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/Radheranij/Poison_x_musi"> <img src="https://img.shields.io/github/repo-size/official_radhe_krishna_1/PoisonMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/official_radhe_krishna_1/PoasionMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/official_radhe_krishna_1/PoasionMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/official_radhe_krishna_1/PoasionMusic/issues"> <img src="https://img.shields.io/github/issues/official_radhe_krishna_1/PoasionMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/official_radhe_krishna_1/PoasionMusic/network/members"> <img src="https://img.shields.io/github/forks/TheTeamAlexa/AlexaMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/https://t.me/Majha_Radhe/poisonMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/Radheranij/Poison_x_musi"> <img src="https://img.shields.io/github/repo-size/Radheranij/PoisonMusicBot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Radheranij/PoasionMusic/commits/prince"> <img src="https://img.shields.io/github/last-commit/Radheranij/PoasionMusic?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Radheranij/PoasionMusic/issues"> <img src="https://img.shields.io/github/issues/Radheranij/PoasionMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Radheranij/PoasionMusic/network/members"> <img src="https://img.shields.io/github/forks/Radheranij/PoisonMusic?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Pyrogram"> <img src="https://img.shields.io/pypi/v/Pyrogram?color=yellow&label=Pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ### Asad– History
 
-<a href="https://t.me/official_radhe_krishna_1"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<a href="https://t.me/Majha_Radhe"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 <h1 align="center"><b>😂 ᴠɪᴇᴡ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs 😂</b></h1>
 <br>
@@ -103,7 +103,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
-<p><a href="https://my.scalingo.com/deploy?template=https://github.com/official_radhe_krishna_1/PoisonMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p><a href="https://my.scalingo.com/deploy?template=https://github.com/Radheranij/PoisonMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 <summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
 <br>
@@ -112,7 +112,7 @@ Through this repository, we hope to share our passion for music and innovation w
 > ᴀʟᴡᴀʏs ʀᴇᴍᴇʙᴇʀ ᴛᴏ ᴜsᴇ ɢᴏᴏᴅ ᴀᴘɪ ᴄᴏᴍʙᴏ ᴇʟsᴇ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴄᴏᴜʟᴅ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ.
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ʀᴇᴘʟ: </h4>    
-<p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@Majha_Radhe/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
 <p><a href="https://t.me/Session_Generator_Robot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
@@ -125,10 +125,10 @@ Through this repository, we hope to share our passion for music and innovation w
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fofficial_radhe_krishna_1%2FPosionMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FRadheranij%2FPosionMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ɪꜰ ʏᴏᴜ ᴀʀᴇ ꜰᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴏʀ  ᴀᴄᴄᴏᴜɴᴛ sᴜsᴘᴇɴsɪᴏɴ ɪssᴜᴇ ᴛᴏ ʙʏᴘᴀss ᴀɴʏ ʀᴇsᴛʀɪᴄᴛɪᴏɴ ᴏɴ ʜᴇʀᴏᴋᴜ ᴏʀ ʀᴀɪʟᴡᴇʏ</h4>    
-<a href="https://github.com/official_radhe_krishna_1/PoasionMusic-Bypass"><img src="https://img.shields.io/badge/Poasion-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a>
+<a href="https://github.com/Radheraniji/PoasionMusic-Bypass"><img src="https://img.shields.io/badge/Poasion-Music%20Bypass-blue.svg?style=for-the-badge&logo=GitHub"></a>
 
 <h1 align="center"><b>❤️ ᴏᴡɴᴇʀ ᴀɴᴅ ᴄʀᴇᴅɪᴛ ❤️</b></h1>
 <details>
@@ -137,10 +137,10 @@ Through this repository, we hope to share our passion for music and innovation w
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/official_radhe_krishna_1)
+- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Majha_Radhe)
 - [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
 - [ʜᴀʀsʜɪᴛ](https://t.me/Majha_Radhe)
-- [Abhimanyu](https://t.me/official_radhe_krishna_1)
+- [Abhimanyu](https://t.me/chobcolatboy21)
 - [ᴍᴀssoᴍ](https://t.me/chocolat_boy21)
 - [ʏᴜᴋᴋɪ](https://github.com/Radheranij/Poison_x_musi)
 - [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/Radheranij/Poison_x_musi)
@@ -150,7 +150,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/official_radhe_krishna_1)
+- [ᴍᴜᴋᴜ](https://t.me/Majha_Radhe)
 - [ᴅᴇᴠɪʟ](https://t.me/Majha_Radhe)
 
 </details>
@@ -161,9 +161,9 @@ Through this repository, we hope to share our passion for music and innovation w
 
 # ❤️ Support<
 <a href="https://t.me/Poasion_BotUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/official_radhe_krishna_1"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/official_radhe_krishna_1"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
-<a href="https://t.me/official_radhe_krishna_1"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Majha_Radhe"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Majha_Radhe"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Majha_Radhe"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
