@@ -1,4 +1,4 @@
-# Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/Radharanij >
+# Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/Radheranij >
 # Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Krishna © Yukki.
 
 """"
