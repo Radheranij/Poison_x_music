@@ -1,9 +1,9 @@
-# Copyright (C) 2024 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
-# Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
+# Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/Radharanij >
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Krishna © Yukki.
 
 """"
-TheTeamAlexa is a project of Telegram bots with variety of purposes.
-Copyright (c) 2024 -present Team=Alexa <https://github.com/TheTeamAlexa>
+Krishna is a project of Telegram bots with variety of purposes.
+Copyright (c) 2024 -present Team=Krishna <https://github.com/Radharanij>
 
 This program is free software: you can redistribute it and can modify
 as you want or you can collabe if you have new ideas.
@@ -12,10 +12,10 @@ as you want or you can collabe if you have new ideas.
 import asyncio
 from pyrogram.enums import ChatType
 import config
-from AlexaMusic import app
-from AlexaMusic.core.call import Alexa, autoend
+from PoisonMusic import app
+from PoisonMusic.core.call import Poison, autoend
 from datetime import datetime, timedelta
-from AlexaMusic.utils.database import get_client, is_active_chat, is_autoend
+from PoisonMusic.utils.database import get_client, is_active_chat, is_autoend
 
 
 async def auto_leave():
@@ -64,7 +64,7 @@ async def auto_end():
                     continue
                 autoend[chat_id] = {}
                 try:
-                    await Alexa.stop_stream(chat_id)
+                    await Poison.stop_stream(chat_id)
                 except:
                     continue
                 try:
