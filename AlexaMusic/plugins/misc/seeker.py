@@ -1,9 +1,9 @@
-# Copyright (C) 2024 by Alexa_Help @ Github, < https://github.com/TheTeamAlexa >
-# Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Alexa © Yukki.
+# Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/Radheranij>
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Poison © Yukki.
 
 """"
-TheTeamAlexa is a project of Telegram bots with variety of purposes.
-Copyright (c) 2024 -present Team=Alexa <https://github.com/TheTeamAlexa>
+Krishna is a project of Telegram bots with variety of purposes.
+Copyright (c) 2024 -present Team=Krishna <https://github.com/Radheranij>
 
 This program is free software: you can redistribute it and can modify
 as you want or you can collabe if you have new ideas.
@@ -15,10 +15,10 @@ import asyncio
 from pyrogram.types import InlineKeyboardMarkup
 
 from strings import get_string
-from AlexaMusic.misc import db
-from AlexaMusic.utils.database import get_active_chats, get_lang, is_music_playing
-from AlexaMusic.utils.formatters import seconds_to_min
-from AlexaMusic.utils.inline import stream_markup_timer, telegram_markup_timer
+from PoisonMusic.misc import db
+from PoisonMusic.utils.database import get_active_chats, get_lang, is_music_playing
+from PoisonMusic.utils.formatters import seconds_to_min
+from PoisonMusic.utils.inline import stream_markup_timer, telegram_markup_timer
 
 from ..admins.callback import wrong
 
