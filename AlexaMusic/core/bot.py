@@ -1,5 +1,5 @@
 # Copyright (C) 2024 by Krishna_Help @ Github, < https://github.com/Radheranij/Poison_x_music >
-# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Poison © Yukki.
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Alexa © Yukki.
 
 """"
 official_radhe_krishna_1 is a project of Telegram bots with variety of purposes.
