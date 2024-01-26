@@ -1,9 +1,9 @@
-# Copyright (C) 2024 by krishna_Help @ Github, < https://github.com/official_radhe_krishna_1 >
-# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Krishna © Yukki.
+# Copyright (C) 2024 by krishna_Help @ Github, < https://github.com/Radheranij >
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Poison © Yukki.
 
 """"
-official_radhe_krishna_1 is a project of Telegram bots with variety of purposes.
-Copyright (c) 2024 -present Team=Krishna <https://github.com/official_radhe_krishna_1>
+Krishna is a project of Telegram bots with variety of purposes.
+Copyright (c) 2024 -present Team=Krishna <https://github.com/Radheranij>
 
 This program is free software: you can redistribute it and can modify
 as you want or you can collabe if you have new ideas.
@@ -25,35 +25,35 @@ assistantids = []
 class Userbot(Client):
     def __init__(self):
         self.one = Client(
-            name="KrishnaOne",
+            name="PoisonOne",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING1),
             no_updates=True,
         )
         self.two = Client(
-            name="KrishnaTwo",
+            name="PoisonTwo",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING2),
             no_updates=True,
         )
         self.three = Client(
-            name="KrishnaThree",
+            name="PoisonThree",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING3),
             no_updates=True,
         )
         self.four = Client(
-            name="KrishnaFour",
+            name="PoisonFour",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING4),
             no_updates=True,
         )
         self.five = Client(
-            name="KrishnaFive",
+            name="PoisonFive",
             api_id=config.API_ID,
             api_hash=config.API_HASH,
             session_string=str(config.STRING5),
@@ -65,7 +65,7 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("Poison_Help")
+                await self.one.join_chat("Krishna_Help")
                 await self.one.join_chat("official_radhe_krishna_1")
                 await self.one.join_chat("Poison_BotUpdates")
             except:
