@@ -1,9 +1,9 @@
-# Copyright (C) 2024 by krishna_Help @ Github, < https://github.com/official_radhe_krishna_1 >
-# Subscribe On YT < Jankari Ki Duniya >. All rights reserved. © Poasion © Yukki.
+# Copyright (C) 2024 by krishna_Help @ Github, < https://github.com/Radharanij >
+# Subscribe On YT < official_radhe_krishna_1 >. All rights reserved. © Poasion © Yukki.
 
 """"
-official_radhe_krishna_1 is a project of Telegram bots with variety of purposes.
-Copyright (c) 2024 -present Team=Krishna <https://github.com/official_radhe_krishna_1>
+Krishna is a project of Telegram bots with variety of purposes.
+Copyright (c) 2024 -present Team=Krishna <https://github.com/Radharanij>
 
 This program is free software: you can redistribute it and can modify
 as you want or you can collabe if you have new ideas.
